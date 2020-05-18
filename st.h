@@ -113,7 +113,7 @@ void *xmalloc(size_t);
 void *xrealloc(void *, size_t);
 char *xstrdup(char *);
 
-/* config.h globals */
+/* config.def.h globals */
 extern char *utmp;
 extern char *scroll;
 extern char *stty_args;

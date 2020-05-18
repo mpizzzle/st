@@ -25,7 +25,7 @@ you can manually run `tic -sx st.info`.
 
 ## I would like to have utmp and/or scroll functionality by default
 
-You can add the absolute patch of both programs in your config.h
+You can add the absolute patch of both programs in your config.def.h
 file. You only have to modify the value of utmp and scroll variables.
 
 ## Why doesn't the Del key work in some programs?
